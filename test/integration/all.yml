@@ -4,3 +4,4 @@
 - include: rackspace.yml
 - include: amazon.yml
 - include: good_parsing.yml
+- include: dsteinkraus.yml
